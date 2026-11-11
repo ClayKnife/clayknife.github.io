@@ -1,7 +1,5 @@
-# rakan.design
+# clayknife.github.io
 
-Root site for **rakan.design** (GitHub Pages user site). There's no homepage yet, so the root
-forwards to the arcade, which lives in its own repo (`ClayKnife/pocketarcade`) and is served at
-**rakan.design/pocketarcade/**.
-
-`CNAME` holds the custom domain. Replace `index.html` when a real homepage arrives.
+Short-lived GitHub Pages root site. **rakan.design is no longer served from here**: the arcade moved
+to Cloudflare Pages (see the `pocketarcade` repo), and the domain was released from this repo.
+Safe to delete or reuse.
